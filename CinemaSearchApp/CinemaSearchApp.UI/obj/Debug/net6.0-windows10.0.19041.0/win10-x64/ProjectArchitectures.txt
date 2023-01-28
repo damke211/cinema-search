@@ -1,0 +1,1 @@
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.UI\CinemaSearchApp.UI.csproj;x64

@@ -1,0 +1,12 @@
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\bin\Debug\net6.0\CinemaSearchApp.DataModel.deps.json
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\bin\Debug\net6.0\CinemaSearchApp.DataModel.dll
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\bin\Debug\net6.0\CinemaSearchApp.DataModel.pdb
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.csproj.AssemblyReference.cache
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.AssemblyInfoInputs.cache
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.AssemblyInfo.cs
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.csproj.CoreCompileInputs.cache
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.dll
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\refint\CinemaSearchApp.DataModel.dll
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\CinemaSearchApp.DataModel.pdb
+C:\Users\dhalilov\Desktop\Diplomski\CinemaSearch\CinemaSearchApp\CinemaSearchApp.Shared\obj\Debug\net6.0\ref\CinemaSearchApp.DataModel.dll

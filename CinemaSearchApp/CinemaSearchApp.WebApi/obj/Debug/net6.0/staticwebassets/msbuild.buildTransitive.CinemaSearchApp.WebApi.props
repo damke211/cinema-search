@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CinemaSearchApp.WebApi.props" />
+</Project>

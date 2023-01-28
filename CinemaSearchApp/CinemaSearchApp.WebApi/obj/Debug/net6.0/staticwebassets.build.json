@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "xJEQ+V6zdaxKaPlIzc0T3D3Zugf7QQVQfJ3RrKXzXZ4=",
+  "Source": "CinemaSearchApp.WebApi",
+  "BasePath": "_content/CinemaSearchApp.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
